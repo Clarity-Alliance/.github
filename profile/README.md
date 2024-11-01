@@ -4,7 +4,8 @@
 Clarity Alliance is dedicated to providing top-tier security reviews within the Stacks ecosystem. Our team of skilled security researchers ensures that every project we work with upholds the highest standards of security and reliability.
 
 ## See Our Public Security Reviews 
-- 📄 [View All Reviews](https://github.com/Clarity-Alliance/audits)
+- 📑 [View all reviews on our webpage](https://www.clarityalliance.org/audit)
+- 📄 [View all reviews on GitHub](https://github.com/Clarity-Alliance/audits)
 
 ### Get in Touch
 - 🌐 [Website](https://www.clarityalliance.org)
