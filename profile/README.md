@@ -9,7 +9,7 @@ Clarity Alliance is dedicated to providing top-tier security reviews within the 
 
 - 📑 [View all reports on our website](https://www.clarityalliance.org/reports)
 
-| Title                                  | Report                                                                                                      | Labels                                                                                     |
+| Title                                  | Report                                                                                                      | Type                                                                                     |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | Granite-Pyth (Upgrade)                 | [2025-08-15](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Granite-Pyth%20(Upgrade).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | Granite (Upgrade v2)                   | [2025-07-05](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Granite%20(Upgrade%20v2).pdf) | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
