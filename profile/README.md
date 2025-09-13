@@ -40,4 +40,5 @@ Clarity Alliance is dedicated to providing top-tier security reviews within the 
 ### Get in Touch
 - 🌐 [Website](https://www.clarityalliance.org)
 - ✖️ [Twitter](https://x.com/ClarAllianceSTX)
+- 💬 [Telegram](https://t.me/CA_Nick)
 - 📧 [Email Us](mailto:contact@clarityalliance.org)
