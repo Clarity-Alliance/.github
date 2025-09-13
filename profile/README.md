@@ -7,7 +7,7 @@ Clarity Alliance is dedicated to providing top-tier security reviews within the 
 
 ## See Our Public Security Reports
 
-- 📑 [View all reports on our website](https://www.clarityalliance.org/reports)
+-  [View all reports on our website](https://www.clarityalliance.org/reports)
 
 | Title                                  | Report                                                                                                      | Type                                                                                     |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
