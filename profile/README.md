@@ -38,7 +38,7 @@ Clarity Alliance is dedicated to providing top-tier security reviews within the 
 | Zest Protocol                          | [2024-05-02](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol.pdf)        | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 
 ### Get in Touch
-- 🌐 [Website](https://www.clarityalliance.org)
-- ✖️ [Twitter](https://x.com/ClarAllianceSTX)
-- 💬 [Telegram](https://t.me/CA_Nick)
-- 📧 [Email Us](mailto:contact@clarityalliance.org)
+-  [Website](https://www.clarityalliance.org)
+-  [Twitter](https://x.com/ClarAllianceSTX)
+-  [Telegram](https://t.me/CA_Nick)
+-  [Email Us](mailto:contact@clarityalliance.org)
