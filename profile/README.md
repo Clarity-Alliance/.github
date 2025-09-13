@@ -4,15 +4,8 @@
 Clarity Alliance is dedicated to providing top-tier security reviews within the Stacks ecosystem. Our team of skilled security researchers ensures that every project we work with upholds the highest standards of security and reliability.
 
 ## See Our Public Security Reports
+
 - 📑 [View all reports on our website](https://www.clarityalliance.org/reports)
-- 📄 [View all reports on GitHub](https://github.com/Clarity-Alliance/audits)
-
-### Get in Touch
-- 🌐 [Website](https://www.clarityalliance.org)
-- ✖️ [Twitter](https://x.com/ClarAllianceSTX)
-- 📧 [Email Us](mailto:contact@clarityalliance.org)
-
-### Clarity Alliance Public Security Reports
 
 | Protocol       | Title                                  | Report                                                                                                      | Labels                                                                                     |
 | -------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -41,4 +34,8 @@ Clarity Alliance is dedicated to providing top-tier security reviews within the 
 | sBTC                       | sBTC Rewards Program                                        | [YYYY-MM-DD](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20sBTC%20Rewards%20Program.pdf)                                        | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 | sBTC                       | sBTC                                        | [YYYY-MM-DD](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20sBTC.pdf)                                        | <img height="20" src="https://img.shields.io/badge/-   Clarity   -63698d?style=flat" />    |
 
+### Get in Touch
+- 🌐 [Website](https://www.clarityalliance.org)
+- ✖️ [Twitter](https://x.com/ClarAllianceSTX)
+- 📧 [Email Us](mailto:contact@clarityalliance.org)
 
