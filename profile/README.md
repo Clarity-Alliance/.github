@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://pbs.twimg.com/profile_banners/1810683589585195008/1749322161/1500x500" alt="Clarity Alliance" width="100%" />
 </p>
-# Clarity Alliance
 
 ## About Us
 Clarity Alliance is dedicated to providing top-tier security reviews within the Stacks ecosystem. Our team of skilled security researchers ensures that every project we work with upholds the highest standards of security and reliability.
